@@ -1,0 +1,52 @@
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll.config
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.pdb
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\Antlr3.Runtime.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\EntityFramework.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Optimization.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Providers.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\WebGrease.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\EntityFramework.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.dll
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\Aldimar\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\ProjetoTeste.dll.config
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\ProjetoTeste.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\ProjetoTeste.pdb
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\Antlr3.Runtime.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\EntityFramework.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\Newtonsoft.Json.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Mvc.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Optimization.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Providers.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Razor.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\WebGrease.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\EntityFramework.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\Newtonsoft.Json.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Mvc.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.Razor.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\obj\Debug\ProjetoTeste.dll
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\Aldimar\Documents\TI Selvagem\ASP.NET MVC\Controller e View\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache

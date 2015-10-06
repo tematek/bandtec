@@ -1,0 +1,4 @@
+$ cat > hooks/post-receive
+#!/bin/sh
+GIT_WORK_TREE=/var/www/https://github.com/tematek/bandtec.git checkout -f
+$ chmod +x hooks/post-receive
